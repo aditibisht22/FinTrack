@@ -5,3 +5,5 @@ const Expense = ()=>{
         <div>Expense</div>
     )
 }
+
+export default Expense
